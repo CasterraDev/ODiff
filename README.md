@@ -1,12 +1,12 @@
 # ODiff
 
-Output different lines from two files. Outputs to `stdout`
+Outputs the lines that are different from two files. Outputs to `stdout`
 
 # Install
 
 You can install it by using go install:
 
-`go install -v github.com/CasterraDev/odiff@latest`
+```go install -v github.com/CasterraDev/odiff@latest```
 
 # Usage
 
